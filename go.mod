@@ -1,4 +1,4 @@
-module github.com/showwin/speedtest-go
+module github.com/mistsys/speedtestutils
 
 go 1.16
 
